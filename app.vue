@@ -1,5 +1,8 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Hello!
   </div>
 </template>
+
+<script setup>
+</script>
